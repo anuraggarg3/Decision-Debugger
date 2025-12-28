@@ -2,9 +2,8 @@
 
 A debugging toolkit for non-deterministic, multi-step algorithmic systems. Unlike traditional tracing which answers "what happened?", X-Ray answers **"why did the system make this decision?"**
 
-![X-Ray Dashboard]
 
-##The Problem
+## The Problem
 
 Modern software increasingly relies on multi-step, non-deterministic processes:
 
@@ -290,7 +289,6 @@ X-Ray uses a flexible JSON format that can accommodate various pipeline types. T
 - [ ] WebSocket for real-time trace updates
 - [ ] Trace replay functionality
 - [ ] Integration with popular observability platforms
-- [ ] SDK for Python, Go, and other languages
 
 
 ---
